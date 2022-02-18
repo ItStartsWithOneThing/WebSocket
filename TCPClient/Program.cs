@@ -10,6 +10,8 @@ namespace TCPClient
     {
         static void Main(string[] args)
         {
+            string test = "test";
+
             #region TCP
             //const string ip = "127.0.0.1";
             //const int port = 8080;
